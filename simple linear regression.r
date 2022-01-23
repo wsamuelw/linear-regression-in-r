@@ -149,6 +149,7 @@ Metrics::mse(metrics$sales, metrics$.fitted)
 Metrics::mae(metrics$sales, metrics$.fitted)
 # 2.340457
 
-
+# commonly used metrics for linear regression
+# https://towardsdatascience.com/what-are-the-best-metrics-to-evaluate-your-regression-model-418ca481755b
 
 
